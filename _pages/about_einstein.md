@@ -2,27 +2,11 @@
 
 ## 🚀 Sobre Minha Atuação
 Instrutor na rede de Naves do Conhecimento do Rio de Janeiro, atuando no espaço **Realengo** com:
-- Aulas multidisciplinares para alunos de 8 a 18 anos
-- Orientação pedagógica em tecnologia educacional
+- Aulas multidisciplinares para alunos
+- Orientação em tecnologia
 - Desenvolvimento de projetos maker intergeracionais
 
 ## 💻 Tecnologias Ensinadas
-
-### 🖨️ Impressão 3D
-```mermaid
-graph LR
-A[Modelagem 3D] --> B[Slice e preparação]
-B --> C[Operação de impressoras]
-C --> D[Pós-processamento]
-D --> E[Projetos integrados]
-🚁 Drones & Robótica
-Montagem e configuração de quadricópteros
-
-Programação de rotas com Tello EDU
-
-Sensores e princípios de voo
-
-Competições de drone racing
 
 💡 Informática Criativa
 Diagram
@@ -34,7 +18,6 @@ title Habilidades Desenvolvidas
 “Robótica Educacional” : 30
 “Cloud Computing” : 10
 🌐 Tecnologias Emergentes
-
 Realidade Aumentada com CoSpaces
 Prototipagem eletrônica (Arduino básico)
 
