@@ -1,30 +1,55 @@
-# Primeiro Dia no Projeto Realengo
+# Professor de Informática - Nave do Conhecimento Realengo
 
-## Construção do Turbidímetro
+## 🚀 Sobre Minha Atuação
+Instrutor na rede de Naves do Conhecimento do Rio de Janeiro, atuando no espaço **Realengo** com:
+- Aulas multidisciplinares para alunos de 8 a 18 anos
+- Orientação pedagógica em tecnologia educacional
+- Desenvolvimento de projetos maker intergeracionais
 
-Hoje foi um dia extraordinário! Montamos nosso primeiro turbidímetro como parte do projeto na Secretaria de Tecnologia. 
+## 💻 Tecnologias Ensinadas
 
-### A Experiência
+### 🖨️ Impressão 3D
+```mermaid
+graph LR
+A[Modelagem 3D] --> B[Slice e preparação]
+B --> C[Operação de impressoras]
+C --> D[Pós-processamento]
+D --> E[Projetos integrados]
+🚁 Drones & Robótica
+Montagem e configuração de quadricópteros
 
-- **Mão na massa**: Colocamos em prática os conceitos teóricos
-- **Trabalho em equipe**: Colaboração intensa entre os membros
-- **Resultado surpreendente**: O dispositivo funcionou além das expectativas
+Programação de rotas com Tello EDU
 
-### Minha Reação
+Sensores e princípios de voo
 
-Minha mente está fervilhando de ideias após essa experiência:
+Competições de drone racing
 
-💡 Novas possibilidades de aplicação  
-💡 Melhorias para a próxima versão  
-💡 Integração com outros sistemas do projeto  
+💡 Informática Criativa
+Diagram
+Code
+pie
+title Habilidades Desenvolvidas
+“Programação Blockly” : 35
+“Edição Multimídia” : 25
+“Robótica Educacional” : 30
+“Cloud Computing” : 10
+🌐 Tecnologias Emergentes
 
-"Foi incrível ver a teoria se transformando em algo tangível e funcional!"
+Realidade Aumentada com CoSpaces
+Prototipagem eletrônica (Arduino básico)
 
-### Próximos Passos
+Design Thinking aplicado
 
-1. Documentar o processo de montagem
-2. Testar em diferentes condições
-3. Coletar dados para análise
-4. Planejar as melhorias
+✨ Projetos Destaque
 
-Este foi apenas o começo de uma jornada promissora no Projeto Realengo!
+QRCodeHunter
+
+📊 Impacto Educacional
+Faixa Etária	Projetos	Habilidades Desenvolvidas
+8-12 anos	Scratch Jr, Tinkercad	Pensamento computacional
+13-15 anos	App Inventor, Solução de problemas
+16+ anos	Fusion 360, Python	Prototipagem avançada
+
+🌟 Filosofia de Ensino
+"Tecnologia como ferramenta de transformação social, onde cada aluno descobre seu potencial criativo independentemente da idade ou background"
+
